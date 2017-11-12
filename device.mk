@@ -72,7 +72,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.mi_thermald.rc \
     init.qcom.rc \
-    ueventd.qcom.rc
+    ueventd.qcom.rc \
+    init.safailnet.rc
 
 # Display
 PRODUCT_PACKAGES += \
