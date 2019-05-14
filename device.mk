@@ -67,6 +67,10 @@ PRODUCT_PACKAGES += \
     libqcomfm_jni \
     qcom.fmradio
 
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light@2.0-service.davinci
+
 # Net
 PRODUCT_PACKAGES += \
     netutils-wrapper-1.0
