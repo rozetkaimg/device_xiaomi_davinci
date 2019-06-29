@@ -44,6 +44,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Snap
 
+# Camera Motor
+PRODUCT_PACKAGES += \
+    vendor.lineage.camera.motor@1.0-service.davinci
+
 # Common init scripts
 PRODUCT_PACKAGES += \
     init.mi_thermald.rc
