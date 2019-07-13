@@ -1,3 +1,6 @@
+# Camera Motor
+/dev/drv8846_dev         u:object_r:camera_motor_device:s0
+
 # Files in rootfs
 /bt_firmware(/.*)?       u:object_r:bt_firmware_file:s0
 /dsp(/.*)?               u:object_r:adsprpcd_file:s0
