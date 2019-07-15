@@ -77,6 +77,10 @@ PRODUCT_PACKAGES += \
     Tag \
     com.android.nfc_extras
 
+# Parts
+PRODUCT_PACKAGES += \
+    XiaomiParts
+
 # Telephony
 PRODUCT_PACKAGES += \
     telephony-ext
