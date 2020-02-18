@@ -15,7 +15,7 @@
 
 $(call inherit-product, device/xiaomi/davinci/device.mk)
 
-# Inherit some common PixelExperience stuff.
+# Inherit some common EvolutuonX stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_STOCK_ARCORE := true
